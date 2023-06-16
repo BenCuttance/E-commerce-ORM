@@ -34,5 +34,8 @@ All Requests
 
 ## Links
 
-GitHub Link:
-Live Video Link: https://github.com/BenCuttance/E-commerce-ORM
+GitHub Link: https://github.com/BenCuttance/E-commerce-ORM
+
+Live Video Link 1: https://drive.google.com/file/d/1A3P5sQP6hmtFPb9gNLsfPye0V1yCAI4d/view 
+
+Live Video Link 2: https://drive.google.com/file/d/1Qb1xMNhj_1XLOrj_7vmdZP1db1bZsXke/view 
