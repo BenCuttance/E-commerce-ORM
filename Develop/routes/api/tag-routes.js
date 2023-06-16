@@ -77,7 +77,7 @@ router.delete('/:id', async (req, res) => {
       }
     })
     if (!tagData) {
-      res.status(404).json9({ message: 'No location found with this id!' })
+      res.status(404).json({ message: 'No location found with this id!' })
       return;
     }
   res.status(200).json(tagData);
